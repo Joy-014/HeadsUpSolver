@@ -4,7 +4,7 @@ A comprehensive implementation of Heads-Up No-Limit Texas Hold'em with card abst
 
 ## Overview
 
-This project implements a complete Texas Hold'em poker engine with advanced AI solving techniques. It features:
+This project implements a complete Texas Hold'em poker engine with advanced solving techniques. It features:
 
 - **Full Game Tree Solver**: MCCFR implementation for complete game analysis
 - **Subgame Solver**: Solve specific game situations from custom states
