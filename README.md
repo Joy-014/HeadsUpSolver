@@ -1,4 +1,4 @@
-# Texas Hold'em Abstraction with Rake
+# Heads-up Texas Hold'em Abstraction with Rake
 
 A comprehensive implementation of Heads-Up No-Limit Texas Hold'em with card abstraction, Monte Carlo Counterfactual Regret Minimization (MCCFR), and subgame solving capabilities.
 
